@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MitchSwitch
 - 👀 I’m interested in Programming, MC and PC gaming in general
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning JavaScript and its my first programming language so please go easy :)
 - 💞️ I’m looking to collaborate on different games and projects etc
 - 📫 How to reach me DM me on Discord Mitch-Switch#2212
 
