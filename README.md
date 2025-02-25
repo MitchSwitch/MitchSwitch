@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MitchSwitch
-- 👀 I’m interested in Programming, Web Development Minecraft and PC gaming in general
-- 🌱 I’m currently learning JavaScript and python
+- 👀 I’m interested in Programming, Web Development, Minecraft and Game Design.
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on different games and projects etc
 - 📫 How to reach me DM me on Discord Mitch-Switch#2212
 
